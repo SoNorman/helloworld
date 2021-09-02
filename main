@@ -1,0 +1,7 @@
+'''
+<hello,world>
+this is my first python lesson class.
+'''
+
+variable='hello,world'
+print('hello,world')
