@@ -5,3 +5,7 @@ this is my first python lesson class.
 
 variable='hello,world'
 print('hello,world')
+
+
+variable2='test'
+print(variable2)
